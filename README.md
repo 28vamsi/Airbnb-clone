@@ -8,7 +8,7 @@ To get started, simply clone this repository to your local machine and open the 
 # Authors
 Dabbeeru Vamsi Krishna
 ## License
-This project is licensed under the MIT License - see the [MIT](https://github.com/indrareddy333/indrareddy333.github.io/blob/master/LICENSE/) file for details.
+This project is licensed under the MIT License - see the [MIT](https://github.com/28vamsi/Airbnb-clone/blob/main/LICENSE) file for details.
 
 # Acknowledgments
 - This project was inspired by [Telugu Web Guru](https://www.youtube.com/@teluguwebguru).
